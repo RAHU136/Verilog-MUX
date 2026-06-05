@@ -29,6 +29,11 @@ Contains the testbench used for verification and simulation.
 - Data Routing
 - Processor Design
 - VLSI Design
+- 
+## Simulation Waveform
+Simulation screenshot uploaded in this repository.
 
 ## Author
 Rahul
+
+
